@@ -1,4 +1,4 @@
-(canvas
+
 # E-commerce Product Recommendation System
 
 ## Overview
